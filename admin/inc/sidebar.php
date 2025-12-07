@@ -157,8 +157,8 @@
   </button>
   <div>
     <a href="index.php" class="sidebar-logo">
-      <img src="assets/images/logo.png" alt="site logo" class="light-logo">
-      <img src="assets/images/logo-light.png" alt="site logo" class="dark-logo">
+      <img src="assets/images/exp.jpg" alt="site logo" class="light-logo">
+      <img src="assets/images/exp.jpg" alt="site logo" class="dark-logo">
       <img src="assets/images/logo-icon.png" alt="site logo" class="logo-icon">
     </a>
   </div>
