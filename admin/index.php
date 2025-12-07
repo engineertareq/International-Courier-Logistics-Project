@@ -1,11 +1,4 @@
-<?php
-session_start();
 
-if (!isset($_SESSION['admin_log_in'])) {
-    header("Location: login.php");
-    exit();
-}
-?>
 <?php 
 include 'db/config.php';
 include 'inc/sidebar.php';

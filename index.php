@@ -197,8 +197,8 @@
         <div class="brand" aria-hidden="true">
           <div class="logo" title="Logo">You</div>
           <div>
-            <div style="font-size:14px;color:var(--muted)">Website</div>
-            <div style="font-size:12px;color:rgba(255,255,255,0.18)">Maintenance</div>
+            <div style="font-size:14px;color:var(--muted)">Courier & Logistics</div>
+            <div style="font-size:12px;color:rgba(255,255,255,0.18)">Under Maintenance</div>
           </div>
         </div>
 
@@ -220,12 +220,12 @@
 
       <aside class="panel" aria-labelledby="updates">
         <div id="updates" style="font-weight:700">Get notified</div>
-        <small>Enter your email (optional). We'll only use it to send one notification when the front-end is ready.</small>
+        <small>Enter your email. We'll only use it to send one notification when the front-end is ready.</small>
 
         <form id="notifyForm" class="email-row" onsubmit="event.preventDefault();subscribe();">
           <label for="email" class="sr-only" style="position:absolute;left:-9999px;">Email</label>
-          <input id="email" type="email" placeholder="you@domain.com" aria-label="Email for notification" />
-          <button class="btn" type="submit" aria-label="Notify me">Notify me</button>
+          <input id="email" type="email" placeholder="me@tareq.com" aria-label="Email for notification" />
+          <button class="btn" type="submit" aria-label="Notify me">Notify Us</button>
         </form>
 
         <div class="meta">
@@ -273,7 +273,7 @@
         return;
       }
       // Placeholder behavior: you can replace this with an API call.
-      alert('Thanks! We saved: ' + email + '. (Replace alert with real API call.)');
+      alert('Thanks! We saved: ' + email + '. We will Back Soon');
       document.getElementById('email').value = '';
     }
 
