@@ -1,7 +1,8 @@
+<main class="dashboard-main">
 <?php
 include 'db/config.php';
 include 'inc/sidebar.php';
-
+include "inc/nav.php";
 // Default empty messages to avoid undefined warnings
 $country_message = "";
 $zone_message = "";
@@ -80,8 +81,7 @@ if (isset($_POST["add_zone"])) {
 ?>
 
 
-<main class="dashboard-main">
-    <?php include "inc/nav.php" ?>
+
     </div>
 
     <div class="dashboard-main-body">

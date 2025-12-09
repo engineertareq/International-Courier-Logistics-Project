@@ -1,13 +1,13 @@
 
 <?php 
 include_once 'db/config.php';
-include 'inc/sidebar.php';
+
 ?>
-
-
-
 <main class="dashboard-main">
-    <?php include "inc/nav.php" ?>
+<?php 
+ include 'inc/sidebar.php';
+include "inc/nav.php" ?>
+
 
     <div class="dashboard-main-body">
 
