@@ -357,103 +357,9 @@
         </ul>
       </li>
 
-      <li class="dropdown">
-        <a href="javascript:void(0)">
-          <i class="ri-btc-line text-xl me-14 d-flex w-auto"></i>
-          <span>Crypto Currency</span>
-        </a>
-        <ul class="sidebar-submenu">
-          <li>
-            <a href="wallet.html"><i class="ri-circle-fill circle-icon text-primary-600 w-auto"></i> Wallet</a>
-          </li>
-          <li>
-            <a href="marketplace.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i>
-              Marketplace</a>
-          </li>
-          <li>
-            <a href="marketplace-details.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i>
-              Marketplace Details</a>
-          </li>
-          <li>
-            <a href="portfolio.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i> Portfolios</a>
-          </li>
-        </ul>
-      </li>
-
       <li class="sidebar-menu-group-title">UI Elements</li>
 
-      <li class="dropdown">
-        <a href="javascript:void(0)">
-          <iconify-icon icon="solar:document-text-outline" class="menu-icon"></iconify-icon>
-          <span>Components</span>
-        </a>
-        <ul class="sidebar-submenu">
-          <li>
-            <a href="typography.html"><i class="ri-circle-fill circle-icon text-primary-600 w-auto"></i> Typography</a>
-          </li>
-          <li>
-            <a href="colors.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i> Colors</a>
-          </li>
-          <li>
-            <a href="button.html"><i class="ri-circle-fill circle-icon text-success-main w-auto"></i> Button</a>
-          </li>
-          <li>
-            <a href="dropdown.html"><i class="ri-circle-fill circle-icon text-lilac-600 w-auto"></i> Dropdown</a>
-          </li>
-          <li>
-            <a href="alert.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i> Alerts</a>
-          </li>
-          <li>
-            <a href="card.html"><i class="ri-circle-fill circle-icon text-danger-main w-auto"></i> Card</a>
-          </li>
-          <li>
-            <a href="carousel.html"><i class="ri-circle-fill circle-icon text-info-main w-auto"></i> Carousel</a>
-          </li>
-          <li>
-            <a href="avatar.html"><i class="ri-circle-fill circle-icon text-success-main w-auto"></i> Avatars</a>
-          </li>
-          <li>
-            <a href="progress.html"><i class="ri-circle-fill circle-icon text-primary-600 w-auto"></i> Progress bar</a>
-          </li>
-          <li>
-            <a href="tabs.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i> Tab & Accordion</a>
-          </li>
-          <li>
-            <a href="pagination.html"><i class="ri-circle-fill circle-icon text-danger-main w-auto"></i> Pagination</a>
-          </li>
-          <li>
-            <a href="badges.html"><i class="ri-circle-fill circle-icon text-info-main w-auto"></i> Badges</a>
-          </li>
-          <li>
-            <a href="tooltip.html"><i class="ri-circle-fill circle-icon text-lilac-600 w-auto"></i> Tooltip &
-              Popover</a>
-          </li>
-          <li>
-            <a href="videos.html"><i class="ri-circle-fill circle-icon text-cyan w-auto"></i> Videos</a>
-          </li>
-          <li>
-            <a href="star-rating.html"><i class="ri-circle-fill circle-icon text-indigo w-auto"></i> Star Ratings</a>
-          </li>
-          <li>
-            <a href="tags.html"><i class="ri-circle-fill circle-icon text-purple w-auto"></i> Tags</a>
-          </li>
-          <li>
-            <a href="list.html"><i class="ri-circle-fill circle-icon text-red w-auto"></i> List</a>
-          </li>
-          <li>
-            <a href="calendar.html"><i class="ri-circle-fill circle-icon text-yellow w-auto"></i> Calendar</a>
-          </li>
-          <li>
-            <a href="radio.html"><i class="ri-circle-fill circle-icon text-orange w-auto"></i> Radio</a>
-          </li>
-          <li>
-            <a href="switch.html"><i class="ri-circle-fill circle-icon text-pink w-auto"></i> Switch</a>
-          </li>
-          <li>
-            <a href="image-upload.html"><i class="ri-circle-fill circle-icon text-primary-600 w-auto"></i> Upload</a>
-          </li>
-        </ul>
-      </li>
+      
       <li class="dropdown">
         <a href="javascript:void(0)">
           <iconify-icon icon="heroicons:document" class="menu-icon"></iconify-icon>
@@ -562,25 +468,6 @@
 
       <li class="dropdown">
         <a href="javascript:void(0)">
-          <iconify-icon icon="simple-line-icons:vector" class="menu-icon"></iconify-icon>
-          <span>Authentication</span>
-        </a>
-        <ul class="sidebar-submenu">
-          <li>
-            <a href="sign-in.html"><i class="ri-circle-fill circle-icon text-primary-600 w-auto"></i> Sign In</a>
-          </li>
-          <li>
-            <a href="sign-up.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i> Sign Up</a>
-          </li>
-          <li>
-            <a href="forgot-password.html"><i class="ri-circle-fill circle-icon text-info-main w-auto"></i> Forgot
-              Password</a>
-          </li>
-        </ul>
-      </li>
-
-      <li class="dropdown">
-        <a href="javascript:void(0)">
           <iconify-icon icon="solar:gallery-wide-linear" class="menu-icon"></iconify-icon>
           <span>Gallery</span>
         </a>
@@ -628,12 +515,7 @@
           </li>
         </ul>
       </li>
-      <li>
-        <a href="testimonials.html">
-          <i class="ri-star-line text-xl me-14 d-flex w-auto"></i>
-          <span>Testimonial</span>
-        </a>
-      </li>
+
       <li>
         <a href="faq.html">
           <iconify-icon icon="mage:message-question-mark-round" class="menu-icon"></iconify-icon>
