@@ -240,7 +240,7 @@
       <li class="dropdown">
         <a href="javascript:void(0)">
           <iconify-icon icon="lucide:package" class="menu-icon"></iconify-icon>
-          <span>Manage Shipment</span>
+          <span>Shipment</span>
         </a>
         <ul class="sidebar-submenu">
           <li>
@@ -491,30 +491,7 @@
         </ul>
       </li>
 
-      <li>
-        <a href="pricing.html">
-          <iconify-icon icon="hugeicons:money-send-square" class="menu-icon"></iconify-icon>
-          <span>Pricing</span>
-        </a>
-      </li>
-      <li class="dropdown">
-        <a href="javascript:void(0)">
-          <i class="ri-news-line text-xl me-14 d-flex w-auto"></i>
-          <span>Blog</span>
-        </a>
-        <ul class="sidebar-submenu">
-          <li>
-            <a href="blog.html"><i class="ri-circle-fill circle-icon text-primary-600 w-auto"></i> Blog</a>
-          </li>
-          <li>
-            <a href="blog-details.html"><i class="ri-circle-fill circle-icon text-warning-main w-auto"></i> Blog
-              Details</a>
-          </li>
-          <li>
-            <a href="add-blog.html"><i class="ri-circle-fill circle-icon text-info-main w-auto"></i> Add Blog</a>
-          </li>
-        </ul>
-      </li>
+
 
       <li>
         <a href="faq.html">
@@ -523,35 +500,6 @@
         </a>
       </li>
 
-      <li>
-        <a href="terms-condition.html">
-          <iconify-icon icon="octicon:info-24" class="menu-icon"></iconify-icon>
-          <span>Terms & Conditions</span>
-        </a>
-      </li>
-      <li>
-        <a href="coming-soon.html">
-          <i class="ri-rocket-line text-xl me-14 d-flex w-auto"></i>
-          <span>Coming Soon</span>
-        </a>
-      </li>
-      <li>
-        <a href="access-denied.html">
-          <i class="ri-folder-lock-line text-xl me-14 d-flex w-auto"></i>
-          <span>Access Denied</span>
-        </a>
-      </li>
-      <li>
-        <a href="maintenance.html">
-          <i class="ri-hammer-line text-xl me-14 d-flex w-auto"></i>
-          <span>Maintenance</span>
-        </a>
-      </li>
-      <li>
-        <a href="blank-page.html">
-          <i class="ri-checkbox-multiple-blank-line text-xl me-14 d-flex w-auto"></i>
-          <span>Blank Page</span>
-        </a>
       </li>
       <li class="dropdown">
         <a href="javascript:void(0)">
