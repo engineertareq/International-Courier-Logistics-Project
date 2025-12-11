@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Wowdash - Bootstrap 5 Admin Dashboard HTML Template</title>
+  <title>Internation Courier managment System</title>
   <link rel="icon" type="image/png" href="assets/images/favicon.png" sizes="16x16">
   <!-- remix icon font css  -->
   <link rel="stylesheet" href="assets/css/remixicon.css">
@@ -157,8 +157,8 @@
   </button>
   <div>
     <a href="index.php" class="sidebar-logo">
-      <img src="assets/images/exp.jpg" alt="site logo" class="light-logo">
-      <img src="assets/images/exp.jpg" alt="site logo" class="dark-logo">
+      <img src="https://www.vhv.rs/dpng/d/44-443931_png-vintage-retro-logo-transparent-png.png" alt="site logo" class="light-logo">
+      <img src="https://e7.pngegg.com/pngimages/287/216/png-clipart-black-and-red-wings-logo-illustration-logo-phoenix-art-phoenix-leaf-logo.png" alt="site logo" class="dark-logo">
       <img src="assets/images/logo-icon.png" alt="site logo" class="logo-icon">
     </a>
   </div>
